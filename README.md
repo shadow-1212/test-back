@@ -2,6 +2,8 @@
 # installtion
 
 npm install
+
+
 npx prisma migrate
 # Lancement
 
